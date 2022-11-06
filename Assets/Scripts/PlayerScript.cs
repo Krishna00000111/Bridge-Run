@@ -6,7 +6,7 @@ public class PlayerScript : MonoBehaviour
 {
     private Rigidbody playrRb;
 
-    public float playerSpeed = 5f;
+    public float playerSpeed = 15f;
 
     // Start is called before the first frame update
     void Start()
